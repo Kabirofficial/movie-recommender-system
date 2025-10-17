@@ -25,7 +25,6 @@ A content-based movie recommender system that suggests movies similar to a user'
 │   └── similarity.pkl      # Pickled similarity matrix
 ├── templates/
 │   └── index.html          # Frontend HTML file
-├── .gitignore              # Files to be ignored by Git
 ├── app.py                  # Flask web application
 ├── movie recommender system.ipynb # Jupyter notebook for model training
 ├── requirements.txt        # Python dependencies
